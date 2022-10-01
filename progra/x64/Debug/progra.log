@@ -1,0 +1,13 @@
+﻿  main.cpp
+C:\Users\theun\Documents\GitHub\Libro_ejercicios\progra\progra\main.cpp(29,2): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\theun\Documents\GitHub\Libro_ejercicios\progra\progra\main.cpp(41,2): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\theun\Documents\GitHub\Libro_ejercicios\progra\progra\main.cpp(51,4): error C2337: 'in': attribute not found
+C:\Users\theun\Documents\GitHub\Libro_ejercicios\progra\progra\main.cpp(52,6): error C2337: 'in': attribute not found
+C:\Users\theun\Documents\GitHub\Libro_ejercicios\progra\progra\main.cpp(53,6): error C2337: 'in': attribute not found
+C:\Users\theun\Documents\GitHub\Libro_ejercicios\progra\progra\main.cpp(54,6): error C2337: 'in': attribute not found
+C:\Users\theun\Documents\GitHub\Libro_ejercicios\progra\progra\main.cpp(55,7): error C2337: 'out': attribute not found
+C:\Users\theun\Documents\GitHub\Libro_ejercicios\progra\progra\main.cpp(55,17): error C2337: 'optional': attribute not found
+C:\Users\theun\Documents\GitHub\Libro_ejercicios\progra\progra\main.cpp(56,6): error C2337: 'in': attribute not found
+C:\Users\theun\Documents\GitHub\Libro_ejercicios\progra\progra\main.cpp(58,59): error C2664: 'void extraeConsonantesW(LPCWSTR,LPWSTR)': cannot convert argument 2 from 'LPSTR' to 'LPWSTR'
+C:\Users\theun\Documents\GitHub\Libro_ejercicios\progra\progra\main.cpp(58,37): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+C:\Users\theun\Documents\GitHub\Libro_ejercicios\progra\progra\main.cpp(4,6): message : see declaration of 'extraeConsonantesW'
